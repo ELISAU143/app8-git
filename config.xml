@@ -11,8 +11,8 @@
  Aplicacion que contiene todas las aplicaciones que realizan acciones en el dispositivo
  </description>
  
- <author href="https:build.phonegap.com" email="ulig244@gmail.com">
-  Ulises Miró García
+ <author href="https:build.phonegap.com" email="contrerasizucaralejandro@gmail.com">
+  Contreras Izucar Alejandro 
  </author>
  
  <!--Personaliza la aplicacion y plataforma-->
@@ -42,7 +42,7 @@
 
    <!--colocar icono app-->
 
-<icon src="res/android/mdpi.png"/>
+<icon src="res/android/mdpi8.png"/>
 
 </widget> 
  
